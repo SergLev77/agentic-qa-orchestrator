@@ -1,0 +1,27 @@
+# Secrets and local config
+.env
+.env.*
+*.secret
+*.secrets
+secrets/
+credentials/
+*.pem
+*.pfx
+*.key
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
+# Node
+node_modules/
+
+# Local artifacts
+*.log
+tmp/
+temp/
