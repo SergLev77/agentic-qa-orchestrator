@@ -2,6 +2,10 @@
 
 Thin main agent + zone subagents for QA work. Measurable context savings, eval and routing audit.
 
+> Personal project. Generic engineering pattern only: no employer data, internal
+> systems, schemas, hosts or credentials. Names, domains and identifiers are
+> masked or replaced with neutral examples.
+
 Эта работа о том, как перестроить AI-агента для QA так, чтобы он не сжигал контекст на каждом шаге, не терял возможности действовать и при этом **измеримо** не терял в качестве.
 
 Всё ниже проверено на реальной рабочей конфигурации: замеры, eval и аудит маршрутизации сняты по логам сессий, а не «на глаз».
